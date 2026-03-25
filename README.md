@@ -9,4 +9,5 @@ A machine learning and deep learning based system to detect sarcasm in news head
 | Mustafa Hussain     | 160922748046  |
 
 Project Guide: Ms. Neha Shireen
+
 Institution: Lords Institute of Engineering and Technology
